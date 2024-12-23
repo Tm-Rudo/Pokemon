@@ -70,7 +70,7 @@ const App: React.FC = () => {
   return (
     <div className="App">
       <div className="container">
-        <header className="pokemon-header">Pokemon</header>
+        <header className="pokemon-header">Pokemon Go</header>
         {/* //truyền props */}
         <PokemonColection
           pokemons={pokemons}
